@@ -1,3 +1,4 @@
+This tool can be used to validate the leaf certificate against to the Root certificate in a JKS file
 Steps
 - Clone the Repo
 ```
